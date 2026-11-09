@@ -22,3 +22,7 @@ How to Run
   When someone clicks Adopt, AnimalCard.vue sends an event to App.vue. App.vue changes the animal's adoption status, and Vue automatically updates the page.
   What I Learned
   I learned how to use Vue components, props, events, and computed properties. I also got more practice organizing code and making a website update automatically.
+
+
+(I am not sure what I did wrong in cloning or dowloading the files but I was able to get the npm files in this exact repo.) I was having trouble with that. But I did successfully run it and can show you in class if needed. 
+
